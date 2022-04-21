@@ -6,7 +6,7 @@ The GMN Data Platform project provides a set of technologies to ingest, store an
 
 The GMN currently allows you to access data through a [CSV directory](https://globalmeteornetwork.org/data/). The [gmn-python-api](https://github.com/gmn-data-platform/gmn-python-api) supports this data access method but will also support the REST API when the project is deployed.
 
-Start analysing this data using the quick start [GMN data analysis template](https://colab.research.google.com/github/gmn-data-platform/gmn-python-api/blob/main/global_meteor_network_data_analysis_template.ipynb).
+Start analysing this data using the quick start [GMN data analysis template](https://colab.research.google.com/github/gmn-data-platform/gmn-data-endpoints/blob/main/gmn_data_analysis_template.ipynb).
 
 Project user facing features:
 - A web interface to view, query and plot GMN meteor data.
