@@ -2,7 +2,7 @@
 
 **Welcome to the GMN Data Platform organisation on GitHub**
 
-The GMN Data Platform project provides a set of technologies to ingest, store and access [Global Meteor Network](https://globalmeteornetwork.org/) (GMN) data. The primary goal of the project is to allow open access GMN data to be accessed for further data analysis using [FAIR](https://www.go-fair.org/fair-principles/) principles.
+The GMN Data Platform project provides a set of tools to ingest, store and access [Global Meteor Network](https://globalmeteornetwork.org/) (GMN) data. The primary goal of the project is to allow open access GMN data to be accessed for further data analysis using [FAIR](https://www.go-fair.org/fair-principles/) principles.
 
 The GMN currently allows you to access data through a [CSV directory](https://globalmeteornetwork.org/data/). The [gmn-python-api](https://github.com/gmn-data-platform/gmn-python-api) supports this data access method but will also support a newly created REST API when the project is deployed.
 
